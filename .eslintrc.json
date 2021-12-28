@@ -1,8 +1,8 @@
 {
   "root": true,
-   "parserOptions": {
-   "project": "./tsconfig.json"
- },
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
   "plugins": ["@typescript-eslint"],
   "extends": [
     "eslint:recommended",
